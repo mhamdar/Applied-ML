@@ -1,4 +1,4 @@
-# COMP 551: Applied Machine Learning
+# COMP 551: Applied Machine Learning Projects
 This repo contains two sample projects I worked on in McGill's applied machine learning course.
 Both projects include a writeup (report.pdf) that describes all the work done.
 
