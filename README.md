@@ -1,5 +1,5 @@
 # COMP 551: Applied Machine Learning Projects
-This repository contains two sample projects I worked on in McGill's applied machine learning course.
+This repository contains two sample, open-ended projects I worked on in McGill's applied machine learning course.
 **Both projects include a writeup (report.pdf) that describes all the work done.**
 
 ## Reddit NLP
